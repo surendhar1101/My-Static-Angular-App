@@ -31,7 +31,7 @@
   "entities": 
   {
     "Products":{
-      "source": "dbo.Mobiles",
+      "source": "dbo.Mobile",
       "permissions": [
         {
           "actions":["read"],
